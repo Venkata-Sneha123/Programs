@@ -1,0 +1,79 @@
+
+What is pointer, null,void,wild pointer, 
+https://www.geeksforgeeks.org/c-pointers/
+https://www.guru99.com/c-pointers.html
+
+
+Dangling pointer
+https://www.scaler.com/topics/c/dangling-pointer-in-c/
+
+
+pointer arithmetic
+https://www.javatpoint.com/pointer-arithmetic-in-c
+
+
+pointer to pointer:
+https://www.scaler.com/topics/c/pointer-to-pointer-in-c/
+
+
+pointer to an array & Array of pointers, pointer to 2d and 3d arrays
+https://www.scaler.com/topics/c/array-of-pointers-in-c/
+
+
+pointer to an array & Array of pointers
+https://www.geeksforgeeks.org/pointer-array-array-pointer/
+
+
+multidimensional array using pointer
+https://dyclassroom.com/c/c-pointers-and-two-dimensional-array
+
+
+array of pointer to strings
+https://overiq.com/c-programming-101/array-of-pointers-to-strings-in-c/
+https://www.scaler.com/topics/c/string-pointer-in-c/
+
+Character array and char pointer
+https://aticleworld.com/what-is-the-difference-between-char-array-and-char-pointer-in-c/
+
+
+Constant Pointer, Pointer to a Constant & Constant Pointer to a Constant 
+https://www.scaler.com/topics/c/constant-pointer-in-c/
+
+
+Function pointer and array of function pointer
+https://www.scaler.com/topics/c/function-pointer-in-c/
+
+
+structure pointer
+https://www.scaler.com/topics/c/pointers-and-structures-in-c/
+
+
+callback function
+https://embetronicx.com/tutorials/p_language/c/callback-function-in-c-programming/
+
+
+
+file pointer
+https://www.codingpointer.com/c-tutorial/file-pointers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
